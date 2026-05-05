@@ -1,4 +1,4 @@
-# Ergodic Decision Process of Collective Reasoning Intelligence for Explainable Scientific Discovery
+# Ergodic Decision Processes of Collective Reasoning Intelligence for Explainable Scientific Discovery
 
 ## Abstract
 
