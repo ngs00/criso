@@ -24,6 +24,7 @@ Deriving extrapolatable symbolic laws from empirical observations remains a cent
 
 ## Run with User-Defined Datasets
 
-- You need to prepare ``train`` and ``test`` datasets for deriving equations and evaluating them, respectively.
-- Then, add the configuration of your dataset into the ``config`` variable in ``exec.py``.
+- You need to prepare ``training`` and ``test`` datasets for deriving equations and evaluating them, respectively.
+- Then, add the configuration of your dataset into the ``config`` variable in ``exec.py`` and write an instruction of the problem.
 - Finally, set the values of the ``task_domain`` and ``dataset_name`` variables in ``exec.py``.
+- ``dataset`` and ``res`` folders provide examples of the datasets and associated instructions.
