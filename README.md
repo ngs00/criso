@@ -1,4 +1,4 @@
-# Convergent Decision Processes of Collective Reasoning Intelligence for Explainable Scientific Discovery
+# Equation Discovery Through Collectively Evolving Effective Hypothesis Generators
 
 ## Abstract
 
