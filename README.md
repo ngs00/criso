@@ -26,4 +26,4 @@ Deriving extrapolatable symbolic laws from empirical observations remains a cent
 
 - You need to prepare ``train`` and ``test`` datasets for deriving equations and evaluating them, respectively.
 - Then, add the configuration of your dataset into the ``config`` variable in ``exec.py``.
-- Finally, set the values of the ``tast_domain`` and ``dataset_name`` variables in ``exec.py``.
+- Finally, set the values of the ``task_domain`` and ``dataset_name`` variables in ``exec.py``.
