@@ -54,10 +54,10 @@ dataset_name = 'fhst'
 
 
 if __name__ == '__main__':
-    dataset_train = load_dataset('../../data/sym_reg/{}/train.csv'.format(dataset_name),
+    dataset_train = load_dataset('dataset/{}/train.csv'.format(dataset_name),
                                  idx_inputs=config[dataset_name]['idx_inputs'],
                                  idx_target=config[dataset_name]['idx_target'])
-    dataset_test = load_dataset('../../data/sym_reg/{}/test_id.csv'.format(dataset_name),
+    dataset_test = load_dataset('dataset/{}/test_id.csv'.format(dataset_name),
                                 idx_inputs=config[dataset_name]['idx_inputs'],
                                 idx_target=config[dataset_name]['idx_target'])
     instruction = read_problem_instruction('res/instruction_{}.txt'.format(dataset_name))
