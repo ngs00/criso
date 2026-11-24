@@ -34,7 +34,7 @@ Deriving extrapolatable symbolic laws from empirical observations remains a cent
 
 The experimental dataset was originally published in the Supporting Information of the following article:
 
-Kim, H. W., Lee, S. W., Na, G. S., et al. *Reaction condition optimization for non-oxidative conversion of methane using artificial intelligence.* Reaction Chemistry & Engineering **6**, 235–243 (2021). https://doi.org/10.1039/D0RE00378F
+Kim, H. W., Lee, S. W., Na, G. S., et al. *Reaction condition optimization for non-oxidative conversion of methane using artificial intelligence.* Reaction Chemistry & Engineering **6**, 235–243 (2021).
 
 The experimental dataset provided in this repository is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)**.
 
