@@ -1,3 +1,4 @@
+1. Dataset License
 The experimental dataset was originally published in the Supporting Information of the following article:
 
 Kim, H. W., Lee, S. W., Na, G. S., et al. Reaction condition optimization for non-oxidative conversion of methane using artificial intelligence. Reaction Chemistry & Engineering 6, 235–243 (2021).
@@ -9,3 +10,10 @@ Under this license, users may copy and redistribute the dataset in any medium or
 This license applies only to the dataset independently distributed through this repository and does not alter the copyright or licensing terms of the original published article or its Supporting Information.
 
 License: https://creativecommons.org/licenses/by-nd/4.0/
+
+
+2. Software License
+The source code provided in this repository is licensed under the MIT License.
+The MIT License does not apply to the datasets included in this repository. The NOMC experimental dataset is separately licensed under CC BY-ND 4.0. Other datasets and third-party materials remain subject to their respective licensing terms.
+
+License: https://choosealicense.com/licenses/mit/
