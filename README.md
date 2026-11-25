@@ -29,6 +29,7 @@ Deriving extrapolatable symbolic laws from empirical observations remains a cent
 - Finally, set the values of the ``task_domain`` and ``dataset_name`` variables in ``exec.py``.
 - ``dataset`` and ``res`` folders provide examples of the datasets and associated instructions.
 
+---
 
 ## Data Availability and License of NOMC
 
@@ -43,3 +44,9 @@ Under this license, users may copy and redistribute the dataset in any medium or
 This license applies only to the dataset independently distributed through this repository and does not alter the copyright or licensing terms of the original published article or its Supporting Information.
 
 **License:** https://creativecommons.org/licenses/by-nd/4.0/
+
+---
+
+## Software License
+The source code provided in this repository is licensed under the MIT License.
+The MIT License does not apply to the datasets included in this repository. The NOMC experimental dataset is separately licensed under CC BY-ND 4.0. Other datasets and third-party materials remain subject to their respective licensing terms.
